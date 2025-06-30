@@ -1,6 +1,6 @@
-# Project: [Your Website Name]
+# Project: FramesPerSecond
 
-This repository contains the source code for [Your Website Name] — a web application currently in development. This README is intended for developers working on the project.
+This repository contains the source code for FramesPerSecond — a web application currently in development. This README is intended for developers working on the project.
 
 ## 📁 Project Structure
 
@@ -39,9 +39,9 @@ This repository contains the source code for [Your Website Name] — a web appli
 
 ### Prerequisites
 
-- Node.js `vXX.X.X`
+- Node.js `Version 20.x`
 - npm or yarn
-- (optional) Python `X.X.X` if using Flask/Django
+- (optional) Python (idk)
 - MongoDB / Postgres running locally or via cloud service
 
 ### Installation
